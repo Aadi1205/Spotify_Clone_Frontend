@@ -28,6 +28,8 @@ This project was created to:
 ---
 
 ## 📸 Screenshot
-![Spotify Clone Screenshot](images/screenshot.png)
+![spotify landing page](Spotify_Clone_frontend/Screenshots/spotify_landing_page.png)
+![responsive frontend design](Spotify_Clone_frontend/Screenshots/responsive_frontend_Design.png)
+
 
 ---
