@@ -31,6 +31,3 @@ This project was created to:
 ![Spotify Clone Screenshot](images/screenshot.png)
 
 ---
-
-## 🌐 Live Demo
-🔗 [View Live](https://yourusername.github.io/spotify-clone-frontend/)
